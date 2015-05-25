@@ -64,6 +64,7 @@ brew openssl
 brew pango
 brew pixman
 brew pkg-config
+brew rename
 brew zeromq
 
 # App Store applications
