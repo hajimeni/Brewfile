@@ -13,6 +13,7 @@ cask eclipse-jee
 cask evernote
 cask google-chrome
 cask google-japanese-ime
+cask intellij-idea-ce
 cask intellij-idea
 cask iterm2
 cask java
@@ -43,6 +44,7 @@ brew ricty
 # Other Homebrew packages
 brew autoconf
 brew automake
+brew awscli
 brew cairo
 brew czmq
 brew fontconfig
@@ -55,6 +57,7 @@ brew gobject-introspection
 brew harfbuzz
 brew icu4c
 brew jpeg
+brew jq
 brew libffi
 brew libpng
 brew libtiff
