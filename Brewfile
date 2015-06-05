@@ -19,6 +19,7 @@ cask iterm2
 cask java
 cask karabiner
 cask keka
+cask macs-fan-control
 cask skitch
 cask sourcetree
 cask vagrant-manager
@@ -26,6 +27,11 @@ cask vagrant
 cask virtualbox
 cask xmind
 cask xquartz
+
+## caskroom/fonts
+tap caskroom/fonts
+cask font-inconsolata
+cask font-ricty-diminished
 
 ## caskroom/versions
 tap caskroom/versions
@@ -50,6 +56,7 @@ brew czmq
 brew fontconfig
 brew fontforge
 brew freetype
+brew gdbm
 brew gettext
 brew git
 brew glib
@@ -63,12 +70,21 @@ brew libpng
 brew libtiff
 brew libtool
 brew mysql
+brew node
 brew openssl
 brew pango
+brew pcre
 brew pixman
 brew pkg-config
 brew rename
+brew scala
+brew the_silver_searcher
+brew typesafe-activator
+brew wget
+brew xz
 brew zeromq
+brew zsh --disable-etcdir
+brew zsh-completions
 
 # App Store applications
 appstore GarageBand
