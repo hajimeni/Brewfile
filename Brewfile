@@ -69,6 +69,7 @@ brew libffi
 brew libpng
 brew libtiff
 brew libtool
+brew lua
 brew mysql
 brew node
 brew openssl
@@ -76,10 +77,14 @@ brew pango
 brew pcre
 brew pixman
 brew pkg-config
+brew pyenv
+brew redis
 brew rename
+brew sbt
 brew scala
 brew the_silver_searcher
 brew typesafe-activator
+brew vim
 brew wget
 brew xz
 brew zeromq
